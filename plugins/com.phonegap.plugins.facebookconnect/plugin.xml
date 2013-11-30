@@ -29,8 +29,8 @@
       <access origin="https://*.akamaihd.net" />
     </config-file>
     
-    <preference name="APP_ID" />
-	<preference name="APP_NAME" />
+    <preference name="423970834369237" />
+	<preference name="neilmarion-mobile" />
     
     <engines>
       <engine name="cordova" version=">=3.0.0" />

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.neilmarion.fbsimple2.FBSimple2 { <init>(...); }
+
