@@ -1,4 +1,23 @@
 /home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes.dex : \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin$AuthorizeListener.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin$UIDialogListener.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin$2.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin$AuthorizeListener$1.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/org/apache/cordova/facebook/ConnectPlugin$1.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$ServiceListener.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$TokenRefreshServiceConnection$1.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/FbDialog.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/FbDialog$FbWebViewClient.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/FbDialog$1.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$1.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$DialogListener.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/DialogError.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/FacebookError.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$TokenRefreshServiceConnection.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Facebook$AutoPublishAsyncTask.class \
+/home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/facebook/android/Util.class \
 /home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/neilmarion/fbsimple2/R$string.class \
 /home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/neilmarion/fbsimple2/R.class \
 /home/neilmarion/DEV/fbsimple2/platforms/android/bin/classes/com/neilmarion/fbsimple2/BuildConfig.class \

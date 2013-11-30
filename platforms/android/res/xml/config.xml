@@ -12,7 +12,7 @@
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
     <feature name="org.apache.cordova.facebook.Connect">
-      <param name="android-package" value="org.apache.cordova.facebook.ConnectPlugin" />
+        <param name="android-package" value="org.apache.cordova.facebook.ConnectPlugin" />
     </feature>
     <access origin="*" />
     <preference name="useBrowserHistory" value="true" />
@@ -31,5 +31,4 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
-    <access origin="*" />
 </widget>
