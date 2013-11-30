@@ -22,8 +22,10 @@
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/cordova_plugins.js \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/index.html \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/res \
+/home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/cdv-plugin-fb-connect.js \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/icon.png \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/phonegap.js \
+/home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/facebook-js-sdk.js \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/js/index.js \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/spec/index.js \
 /home/neilmarion/DEV/fbsimple2/platforms/android/assets/www/spec/helper.js \
