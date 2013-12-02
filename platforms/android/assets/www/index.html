@@ -10,6 +10,7 @@
 		<button onclick="logout()">Logout</button>
 		<button onclick="facebookWallPost()">facebookWallPost</button>
 		<button onclick="publishStoryFriend()">friendstory</button>
+		<button onclick="uploadPhoto()">upload Photo</button>
         
         <div id="data">loading ...</div>
         
@@ -49,8 +50,23 @@
                 alert("session: " + JSON.stringify(FB.getSession()));
             }
             */
+            function uploadPhoto() {
+              var imgURL = "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/s160x160/1488197_697537883599180_1640371461_a.jpg";
+                FB.api('/me/photos', 'post', {
+                    message:'test test #test fb api upload photo',
+                    url:imgURL        
+                }, function(response){
+                    if (!response || response.error) {
+                        alert('Error occured');
+                    } else {
+                        alert('Post ID: ' + response.id);
+                    }
+                });
+            }
+
             function getLoginStatus() {
                 FB.getLoginStatus(function(response) {
+                                  alert(FB.getAccessToken());
                                   if (response.status == 'connected') {
                                   alert('logged in');
                                   } else {
@@ -102,7 +118,7 @@
                          alert('not logged in');
                          }
                          },
-                         { scope: "email" }
+                         { scope: "email,publish_stream"}
                          );
             }
 			
